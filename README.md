@@ -1,2 +1,2 @@
 # kanban-api
-# study
+# study PASV
